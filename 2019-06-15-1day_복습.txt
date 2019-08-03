@@ -1,0 +1,19 @@
+1.어떻게 하면 일을 잘 빨리 끝낼수 있을까?
+7:30
+공부환경 만들기 
+1) 창문,문 닫기
+2) 옷 갈아입기
+8:20
+node10버전 
+yarn/npm 2가지 버전있음
+yarn 설치
+-npm install -g yarn
+vue cli설치
+-yarn global add @vue/cli
+3분 설치 완료
+8:35
+프로젝트 설치
+vue create vuedongsan2
+yarn 
+yarn serve
+

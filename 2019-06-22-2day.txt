@@ -1,0 +1,23 @@
+new 객체생성
+데이터 조합
+html생성 
+장착
+변경
+
+created - data
+mounted - ex) onload
+beforeUpdate - 데이터가 변경되고 
+updated - 재랜더링 데이터가 변경되고 html 수정
+
+입력값 체크 ex) beforeUpdate
+ 
+컴포넌트를 만드는 기준은?
+재사용한다면 OK
+많아지면 관리가 불편함
+
+뷰단점 : 값전달 프롭스 
+배포 yarn build 
+dist는 html 배포용 파일로 만들어짐
+githubId.github.io
+read check
+무료호스팅

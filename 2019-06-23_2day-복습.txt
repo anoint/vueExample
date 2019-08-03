@@ -1,0 +1,13 @@
+created
+mounted
+beforeUpdate
+updated
+1.예제만들기
+2.배포하기
+3.라우터
+4.모달
+5.디테일 파라미터
+6.탭만들기
+7.정렬 리펙토링
+-methods를 computed에 놔야 하는것이 아닌가?
+8.계산슬라이더
